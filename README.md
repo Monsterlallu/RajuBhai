@@ -75,7 +75,7 @@ __________________
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Monsterlallu/RajuBhai)
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3E90awZ)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Monsterlallu/RajuBhai)
 -------
 <br>
 <br >
