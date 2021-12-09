@@ -20,7 +20,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐌𝐔𝐇𝐀𝐌𝐌𝐄𝐃*
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*𝐂𝐑𝐄𝐀𝐓𝐄𝐃 𝐁𝐘 𝐌𝐎𝐍𝐒𝐓𝐄𝐑 𝐋𝐀𝐋𝐋𝐔*
 
 
 ☘︎ *ᴛᴏ ᴄʜᴇᴄᴋ ᴜᴘᴅᴀᴛᴇ ᴛʏᴘᴇ .ᴜᴘᴅᴀᴛᴇ*
@@ -39,15 +39,15 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 
-☘︎ *ɢɪᴛʜᴜʙ ʟɪɴᴋ : http://www.github.com/muhammed-usrbot/taurus-bot .*
+☘︎ *ɢɪᴛʜᴜʙ ʟɪɴᴋ : http://www.github.com/Monsterlallu/RajuBhai .*
 
 
 
-☘︎ *ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/muhammed-usrbot/taurus-bot/tree/master/uploads .*
+☘︎ *ᴀᴜᴅɪᴏ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/Monsterlallu/RajuBhai/tree/master/uploads .*
 
 
 
-☘︎ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/muhammed-usrbot/taurus-bot/tree/master/sticker .*
+☘︎ *sᴛɪᴄᴋᴇʀ ᴄᴏᴍᴍᴀɴᴅs : https://github.com/Monsterlallu/RajuBhai/tree/master/sticker .*
 
 
 
@@ -55,9 +55,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
 
 
 
-☘︎ *ᴏᴡɴᴇʀ : wa.me/918157849715?&text=ʜɪ%20ᴍᴜʜᴀᴍᴍᴇᴅ-❤︎-*
+☘︎ *ᴏᴡɴᴇʀ : wa.me/917736129238?&text=ʜɪ%20monsterlallu-❤︎-*
 
-*Ⓒ︎2021 MUHAMMED*
+*Ⓒ︎2021 MONSTERLALLU*
 
 
 `}) 
