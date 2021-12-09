@@ -1,6 +1,6 @@
 
 <p align="center">
-𝐓𝐀𝐔𝐑𝐔𝐒 𝐁𝐎𝐓
+RAJU BHAI
 
 <p align="center">
 𝙼𝙰𝙺𝙴𝙳 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 LALLU
@@ -19,16 +19,16 @@
 </p>
 <div align="center">
  <p align="center">
-<a href="#"><img title="TUARUS" src="https://img.shields.io/badge/taurus-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
+<a href="#"><img title="RajuBhai" src="https://img.shields.io/badge/RajuBhai-B62EE0?colorA=B62EE0&colorB=B62EE0&style=for-the-badge"></a>
 
 </p>
        
   <p align="center">
-<a href="https://github.com/muhammed-usrbot"><img title="Author" src="https://img.shields.io/badge/Author-muhammed-usrbot?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Monsterlallu"><img title="Author" src="https://img.shields.io/badge/Author-Monsterlallu?color=B62EE0&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/muhammed-usrbot">muhammed-usrbot</a>
+ᴘʀᴏᴊᴇᴄᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ <a href="https://github.com/Monsterlallu">muhammed-usrbot</a>
     <br>
        | © |
         Reserved |
