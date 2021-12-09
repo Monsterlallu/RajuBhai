@@ -13,7 +13,7 @@ RAJU BHAI
 
 <div align="center">
 
-## [![Taurus-Bot](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+Taurus+WA+Bot+repo;Created+by+MUHAMMED;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![RajuBhai](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+RajuBhai+WA+Bot+repo;Created+by+Lallu;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
 
  </a>
 </p>
