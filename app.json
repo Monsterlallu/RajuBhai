@@ -1,9 +1,9 @@
 {
-    "name": "TAURUS BOT",
+    "name": "Raju Bhai",
     "description": "taurus bot - Whatsapp Bot",
     "logo": "https://bit.ly/3DOgLpP",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/muhammed-usrbot/taurus-bot",
+    "repository": "https://github.com/Monsterlallu/RajuBhai",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
