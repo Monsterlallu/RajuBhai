@@ -72,7 +72,7 @@ __________________
 #####
  
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@muhammed-usrbot/Taurus-Bot)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Monsterlallu/RajuBhai)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://bit.ly/3E90awZ)
