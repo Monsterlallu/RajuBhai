@@ -13,7 +13,7 @@ RAJU BHAI
 
 <div align="center">
 
-## [![RajuBhai](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+RajuBhai+WA+Bot+repo;Created+by+Lallu;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/3wNuiez)
+## [![RajuBhai](https://readme-typing-svg.herokuapp.com?font=Comix+Loud&color=B62EE0&lines=Welcome+to+RajuBhai+WA+Bot+repo;Created+by+Lallu;This+is+the+Best++Bgm+bot;With+more+features)](https://github.com/Monsterlallu/RajuBhai.git)
 
  </a>
 </p>
