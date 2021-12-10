@@ -185,7 +185,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*TAURUS BOT STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*RAJU BHAI BOT STARTED*', MessageType.text);
                 }
 
             }
@@ -234,7 +234,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*TAURUS BOT STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*RAJU BHAI BOT STARTED*', MessageType.text);
                 }
             }
         }
@@ -402,7 +402,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *TAURUS BOT ERROR FOUND!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *RAJU BHAI BOT ERROR FOUND!* ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/channel/UCeYZqtAtdYq8VwSIkW34JMA \n Report errors\njoin with +91 \n https://chat.whatsapp.com/JCDXgSphA49EHxjPn813IL``` ' 
                                     , MessageType.text);
                             }
