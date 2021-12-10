@@ -73,7 +73,7 @@
         },
         "heroku": {
             "RESTART_DESC": "Restart WhatsAsena",
-            "RESTART_MSG": "```Taurus Restarting...```",
+            "RESTART_MSG": "```RajuBhai Restarting...```",
             "SHUTDOWN_DESC": "Shutdown WhatsAsena",
             "SHUTDOWN_MSG": "```Shut downed```",
             "DYNO_DESC": "Check heroku dyno usage",
