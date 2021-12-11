@@ -129,7 +129,7 @@ By establishing the RajuBhai, you are deemed to have accepted these responsibili
 ## Developers 
   <div align="center">
     
-  [![monster lallu](https://github.com/Monsterlallu/RajuBhai/blob/master/monsterlallu.png?size=100)](https://github.com/muhammed-usrbot) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
+  [![monster lallu](https://github.com/Monsterlallu/RajuBhai/blob/master/monsterlallu.png?size=10)](https://github.com/muhammed-usrbot) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
 [MONSTER LALLU](https://github.com/Monsterlallu) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
