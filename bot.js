@@ -138,7 +138,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ TAURUS BOT working!')
+            chalk.green.bold('✅ RAJU BHAI BOT working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -163,7 +163,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*TAURUS BOT STARTED*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*RAJU BHAI BOT STARTED*', MessageType.text);
                 }
             }
             else {
