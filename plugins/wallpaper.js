@@ -645,7 +645,7 @@ var i = Math.floor(621*Math.random())
 
     var respoimage = await axios.get(`${r_text[i]}`, { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '```MADE BY TAURUS BOT 🖤```'})
+    await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: '```MADE BY RAJU BHAI BOT 🖤```'})
 
     }));
 
