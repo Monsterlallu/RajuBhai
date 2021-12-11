@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "TAURUS_CODE": {
+        "RajuBhai_CODE": {
             "description": "Asena session changed! Type your Taurus code here.",
             "required": true
         },
