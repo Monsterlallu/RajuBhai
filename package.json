@@ -1,14 +1,14 @@
 {
-  "name": "Taurus-Bot",
+  "name": "RajuBhai",
   "version": "2.0.0",
-  "description": "Taurus whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./taurus-bot/bot.js",
+  "description": "RajuBhai whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "main": "./RajuBhai/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/muhammed-usrbot/taurus-bot"
+    "url": "git+https://github.com/Monsterlallu/RajuBhai"
   },
   "keywords": [
     "WhatsApp",
@@ -16,10 +16,10 @@
     "Bot"
   ],
   "author": "AsenaDev / Yusuf Usta",
-  "developer": "Muhammed / @karthik-terror-boy",
+  "developer": "Monsterlallu / @karthik-terror-boy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/muhammed-usrbot/taurus-bot/issues"
+    "url": "https://github.com/Monsterlallu/RajuBhai/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
