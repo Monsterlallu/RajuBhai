@@ -131,12 +131,12 @@ By establishing the RajuBhai, you are deemed to have accepted these responsibili
     
   [![muhammed-usrbot](https://github.com/muhammed-usrbot.png?size=100)](https://github.com/muhammed-usrbot) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) | [![Souravkl11](https://github.com/souravkl11.png?size=100)](https://github.com/souravkl11) 
 ----|----|----
-[MUHAMMED](https://github.com/muhammed-usrbot) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
+[MONSTER LALLU](https://github.com/Monsterlallu) | [saidalisaid2](https://github.com/saidalisaid2) | [Souravkl11](https://github.com/souravkl11/Raganork)
 Base, Bug Fixes, Modules | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
 ## Contributer 
-`MUHAMMED`
+`MONSTER LALLU`
         
         
 ## License 
