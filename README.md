@@ -122,8 +122,8 @@ $ node bot.js
 ```
 Due to Whatsapp bot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Taurus-Bot executives do not accept responsibility.
-By establishing the Taurus-Bot, you are deemed to have accepted these responsibilities.
+Absolutely, RajuBhai executives do not accept responsibility.
+By establishing the RajuBhai, you are deemed to have accepted these responsibilities.
 ```
 
 ## Developers 
