@@ -221,9 +221,9 @@
             "UPDATE_NOW_DESC": "It makes updates.",
             "UPDATING": "```UPDATING...🍭```",
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
-            "UPDATED": "*TAURUS UPDATED 🍭✅*",
+            "UPDATED": "*RAJU BHAI UPDATED 🍭✅*",
             "UPDATED_LOCAL": "*✅ SUCCESSFULLY UPDATED !*",
-            "AFTER_UPDATE": "*🍭 TAURUS RESTARTING AUTOMATICALLY*"
+            "AFTER_UPDATE": "*🍭 RAJU BHAI RESTARTING AUTOMATICALLY*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
