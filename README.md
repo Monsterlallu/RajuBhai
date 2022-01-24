@@ -6,7 +6,7 @@ RAJU BHAI
 𝙼𝙰𝙺𝙴𝙳 𝚆𝙸𝚃𝙷 ❤︎ 𝙱𝚈 LALLU
 
 ##
-<a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
+<a href="https://bit.ly/3koZRGY"><img src="RajuBhai.png" alt="google-font" border="0"></a>
 <div align="center">
         <img src="monsterlallu.png" alt="GIF" width="150" height="150"/>
 </p>
