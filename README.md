@@ -8,7 +8,7 @@ RAJU BHAI
 ##
 <a href="https://bit.ly/3koZRGY"><img src="WLCME.png" alt="google-font" border="0"></a>
 <div align="center">
-        <img src="TAURUSGFX2.gif" alt="GIF" width="150" height="150"/>
+        <img src="RajuBhai.gif" alt="GIF" width="150" height="150"/>
 </p>
 
 <div align="center">
